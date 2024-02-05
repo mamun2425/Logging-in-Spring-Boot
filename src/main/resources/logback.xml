@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>logs/app.log</file>
+
+        <!-- Configure rolling policy based on time -->
+        <!-- create new log file in every minutes -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/app.%d{yyyy-MM-dd_HH-mm}.log</fileNamePattern>
+            <maxHistory>30</maxHistory> <!-- Number of archived logs to keep -->
+        </rollingPolicy>
+
         <encoder>
             <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
         </encoder>
@@ -10,7 +19,9 @@
     <root level="INFO">
         <appender-ref ref="FILE"/>
     </root>
+
     <logger name="com.example.loggingDemo" level="TRACE" additivity="false">
         <appender-ref ref="FILE"/>
     </logger>
+
 </configuration>
