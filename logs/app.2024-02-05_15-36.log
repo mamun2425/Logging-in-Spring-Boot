@@ -1,0 +1,36 @@
+15:36:03.358 [http-nio-8080-exec-9] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:03.359 [http-nio-8080-exec-9] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:03.359 [http-nio-8080-exec-9] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:03.359 [http-nio-8080-exec-9] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:09.701 [http-nio-8080-exec-10] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:09.701 [http-nio-8080-exec-10] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:09.701 [http-nio-8080-exec-10] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:09.702 [http-nio-8080-exec-10] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:11.977 [http-nio-8080-exec-7] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:11.977 [http-nio-8080-exec-7] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:11.977 [http-nio-8080-exec-7] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:11.977 [http-nio-8080-exec-7] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:41.261 [http-nio-8080-exec-6] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:41.261 [http-nio-8080-exec-6] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:41.261 [http-nio-8080-exec-6] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:41.261 [http-nio-8080-exec-6] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:42.313 [http-nio-8080-exec-8] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:42.313 [http-nio-8080-exec-8] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:42.313 [http-nio-8080-exec-8] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:42.313 [http-nio-8080-exec-8] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:47.068 [http-nio-8080-exec-4] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:47.068 [http-nio-8080-exec-4] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:47.068 [http-nio-8080-exec-4] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:47.068 [http-nio-8080-exec-4] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:48.027 [http-nio-8080-exec-5] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:48.027 [http-nio-8080-exec-5] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:48.027 [http-nio-8080-exec-5] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:48.027 [http-nio-8080-exec-5] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:52.627 [http-nio-8080-exec-1] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:52.627 [http-nio-8080-exec-1] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:52.627 [http-nio-8080-exec-1] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:52.627 [http-nio-8080-exec-1] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
+15:36:55.530 [http-nio-8080-exec-3] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:36:55.530 [http-nio-8080-exec-3] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:36:55.530 [http-nio-8080-exec-3] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:36:55.530 [http-nio-8080-exec-3] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!

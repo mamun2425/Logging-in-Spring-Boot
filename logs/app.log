@@ -1,0 +1,4 @@
+15:37:05.435 [http-nio-8080-exec-9] ERROR c.e.loggingDemo.LoggingController - there is an error
+15:37:05.437 [http-nio-8080-exec-9] TRACE c.e.loggingDemo.LoggingController - Trace Trace Trace!!! home accessed!
+15:37:05.437 [http-nio-8080-exec-9] INFO  c.e.loggingDemo.LoggingController - Logger INFO!
+15:37:05.437 [http-nio-8080-exec-9] WARN  c.e.loggingDemo.LoggingController - Logger WARN!!!!!!
